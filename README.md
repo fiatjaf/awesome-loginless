@@ -16,6 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Formspree](https://formspree.io/) - Put a form on your site, write your address in the HTML and get the submissions on your email.
 
 ## Web pages
+* [redirect.name](https://redirect.name/) - Configure simple and custom domain redirects and URL forwarding with a DNS record.
 * [Itty Bitty](https://about.bitty.site) - Create websites contained entirely on their URLs, share as QR code, tweets etc.
 
 ## Development Tools

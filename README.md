@@ -14,6 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Data
 * [Formspree](https://formspree.io/) - Put a form on your site, write your address in the HTML and get the submissions on your email.
+* [Mailinator](https://www.mailinator.com/), [Maildrop](https://maildrop.cc/), [Nada](https://getnada.com/) and other disposable email address services allow you to use one or multiple email addresses without registering (everything is public).
 
 ## Web pages
 * [redirect.name](https://redirect.name/) - Configure simple and custom domain redirects and URL forwarding with a DNS record.

@@ -7,6 +7,7 @@ Although some services are easy to provide without requiring a login, many times
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Data](#data)
+* [Communication](#communication)
 * [Web pages](#web-pages)
 * [Development tools](#development-tools)
 * [Money](#money)
@@ -15,9 +16,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Data
 * [Formspree](https://formspree.io/) - Put a form on your site, write your address in the HTML and get the submissions on your email.
-* [Mailinator](https://www.mailinator.com/), [Maildrop](https://maildrop.cc/), [Nada](https://getnada.com/) and other disposable email address services allow you to use one or multiple email addresses without registering (everything is public).
 * [piln](https://piln.xyz/) - A prepaid [IPFS](https://ipfs.io/) pinning service with a public list of pinned objects that collects payments in very small chunks over the Bitcoin Lightning Network.
 * [JSONBIN.io](https://jsonbin.io/) - A place to store, update and query any kind of JSON data, to be used in small-scale web apps in general.
+
+
+## Communication
+* [curl mail](https://curlmail.co/) - `curl curlmail.co/john@example.com` to send email.
+* [Mailinator](https://www.mailinator.com/), [Maildrop](https://maildrop.cc/), [Nada](https://getnada.com/) and other disposable email address services allow you to use one or multiple email addresses without registering (everything is public).
 
 
 ## Web pages
@@ -31,7 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [redirect.name](https://redirect.name/) - Configure simple and custom domain redirects and URL forwarding with just two DNS records.
 
 ## Money
-* [CoinRebates](https://www.coinrebates.com) - Just paste a Bitcoin address, get a link and shop, get the rebate on that address.
+* [CoinRebates](https://www.coinrebates.com) - Just paste a Bitcoin address, get a link and shop, shop, get the rebate.
 
 
 ## Contribute

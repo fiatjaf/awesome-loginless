@@ -34,6 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [serveo](http://serveo.net/) - Get a public URL for a program running on localhost, no installation needed, uses ssh.
 * [Beeceptor](https://beeceptor.com/) - HTTP request mocking and intercepting. Fake your API until you have it ready.
 * [redirect.name](https://redirect.name/) - Configure simple and custom domain redirects and URL forwarding with just two DNS records.
+* [dynamic.name](https://dynamic.name/) - Dynamic DNS without logins and over DNS itself (nslookup will update your subdomain), but you still need a password for each subdomain.
 
 ## Money
 * [CoinRebates](https://www.coinrebates.com) - Just paste a Bitcoin address, get a link and shop, shop, get the rebate.

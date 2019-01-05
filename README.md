@@ -16,7 +16,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Data
 * [Formspree](https://formspree.io/) - Put a form on your site, write your address in the HTML and get the submissions on your email.
-* [piln](https://piln.xyz/) - A prepaid [IPFS](https://ipfs.io/) pinning service with a public list of pinned objects that collects payments in very small chunks over the Bitcoin Lightning Network.
 * [JSONBIN.io](https://jsonbin.io/) - A place to store, update and query any kind of JSON data, to be used in small-scale web apps in general.
 
 
@@ -29,7 +28,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Web pages
 * [Itty Bitty](https://about.bitty.site) - Create websites contained entirely on their URLs, share as QR code, tweets etc.
 * [write.as](https://write.as/) - Minimalist, privacy-focused, writing and publishing platform.
-* [IPFessay](https://ipfs.eternum.io/ipfs/QmVvSSp4kf2JztYA56NxDLorr7NnQ6SGQTkyFKpr1gGQ4N/) - Write in Markdown, publish to [IPFS](https://ipfs.io/) (doesn't pin the content for you, so it's only available for a while, but you can always use something like [piln](https://piln.xyz/)).
 
 ## Development Tools
 * [serveo](http://serveo.net/) - Get a public URL for a program running on localhost, no installation needed, uses ssh.

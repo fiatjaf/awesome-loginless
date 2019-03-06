@@ -8,7 +8,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Data](#data)
 * [Communication](#communication)
-* [Web pages](#web-pages)
 * [Development tools](#development-tools)
 * [Money](#money)
 * [Contribute](#contribute)
@@ -17,6 +16,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Data
 * [Formspree](https://formspree.io/) - Put a form on your site, write your address in the HTML and get the submissions on your email.
 * [JSONBIN.io](https://jsonbin.io/) - A place to store, update and query any kind of JSON data, to be used in small-scale web apps in general.
+* [quickchart.io](https://quickchart.io/) -  Create static charts from just an URL for embedding in email, SMS, reports, and more.
+* [Itty Bitty](https://about.bitty.site) - Create websites contained entirely on their URLs, share as QR code, tweets etc.
+* [write.as](https://write.as/) - Minimalist, privacy-focused, writing and publishing platform.
 
 
 ## Communication
@@ -24,10 +26,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Mailinator](https://www.mailinator.com/), [Maildrop](https://maildrop.cc/), [Nada](https://getnada.com/) and other disposable email address services allow you to use one or multiple email addresses without registering (everything is public). [Emaildrop](https://www.emaildrop.io/v1) has even a public API!
 * [appear.in](https://appear.in/) and [Jitsi](https://meet.jit.si/) offer instant video chat rooms over webRTC.
 
-
-## Web pages
-* [Itty Bitty](https://about.bitty.site) - Create websites contained entirely on their URLs, share as QR code, tweets etc.
-* [write.as](https://write.as/) - Minimalist, privacy-focused, writing and publishing platform.
 
 ## Development Tools
 * [serveo](http://serveo.net/) and [localhost.run](http://localhost.run/) - Get a public URL for a program running on localhost, no installation needed, uses ssh.

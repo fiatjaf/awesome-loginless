@@ -16,7 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Data
 * [Formspree](https://formspree.io/) - Put a form on your site, write your address in the HTML and get the submissions on your email.
 * [JSONBIN.io](https://jsonbin.io/) - A place to store, update and query any kind of JSON data, to be used in small-scale web apps in general.
-* [quickchart.io](https://quickchart.io/) -  Create static charts from just an URL for embedding in email, SMS, reports, and more.
+* [image-charts.com](https://www.image-charts.com/) - Display many types of charts, graphviz graphs, animated GIFs and QR codes from an URL, works also as a drop-in replacement for Google Image Charts. [quickchart.io](https://quickchart.io/) is specialized in charts and can render very pretty ones, and also QR codes.
 * [Itty Bitty](https://about.bitty.site) - Create websites contained entirely on their URLs, share as QR code, tweets etc.
 * [write.as](https://write.as/) - Minimalist, privacy-focused, writing and publishing platform.
 

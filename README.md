@@ -4,8 +4,6 @@ A curated list of awesome internet services you can use without registering, cre
 
 Although some services are easy to provide without requiring a login, many times clever solutions to prevent abuse and spam or to be able to tie specific data to specific users.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
-
 * [Data](#data)
 * [Communication](#communication)
 * [Development tools](#development-tools)
@@ -20,12 +18,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Itty Bitty](https://about.bitty.site) - Create websites contained entirely on their URLs, share as QR code, tweets etc.
 * [write.as](https://write.as/) - Minimalist, privacy-focused, writing and publishing platform.
 
-
 ## Communication
 * [curl mail](https://curlmail.co/) - `curl curlmail.co/john@example.com` to send email.
 * [Mailinator](https://www.mailinator.com/), [Maildrop](https://maildrop.cc/), [Nada](https://getnada.com/) and other disposable email address services allow you to use one or multiple email addresses without registering (everything is public). [Emaildrop](https://www.emaildrop.io/v1) has even a public API!
-* [appear.in](https://appear.in/) and [Jitsi](https://meet.jit.si/) offer instant video chat rooms over webRTC.
-
+* [appear.in](https://appear.in/) and [Jitsi](https://meet.jit.si/) offer instant video chat rooms over webRTC. [room.sh](https://room.sh/) goes one step further and offers that plus collaborative code editors, document editors and drawable whiteboards.
 
 ## Development Tools
 * [serveo](http://serveo.net/) and [localhost.run](http://localhost.run/) - Get a public URL for a program running on localhost, no installation needed, uses ssh.

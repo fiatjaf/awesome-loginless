@@ -6,6 +6,7 @@ Although some services are easy to provide without requiring a login, many times
 
 * [Data](#data)
 * [Communication](#communication)
+* [Publishing](#publishing)
 * [Development tools](#development-tools)
 * [Money](#money)
 * [Contribute](#contribute)
@@ -14,9 +15,11 @@ Although some services are easy to provide without requiring a login, many times
 ## Data
 * [Formspree](https://formspree.io/) - Put a form on your site, write your address in the HTML and get the submissions on your email.
 * [JSONBIN.io](https://jsonbin.io/) - A place to store, update and query any kind of JSON data, to be used in small-scale web apps in general.
-* [image-charts.com](https://www.image-charts.com/) - Display many types of charts, graphviz graphs, animated GIFs and QR codes from an URL, works also as a drop-in replacement for Google Image Charts. [quickchart.io](https://quickchart.io/) is specialized in charts and can render very pretty ones, and also QR codes.
+
+## Publishing
+* [image-charts.com](https://www.image-charts.com/) - Display many types of charts, graphviz graphs, animated GIFs and QR codes from an URL, works also as a drop-in replacement for Google Image Charts. [quickchart.io](https://quickchart.io/) is specialized in charts and can render some pretty ones, and also QR codes.
 * [Itty Bitty](https://about.bitty.site) - Create websites contained entirely on their URLs, share as QR code, tweets etc.
-* [write.as](https://write.as/) - Minimalist, privacy-focused, writing and publishing platform.
+* [write.as](https://write.as/) and [telegra.ph](https://telegra.ph/) allow you to write and publish articles minimalistically.
 
 ## Communication
 * [curl mail](https://curlmail.co/) - `curl curlmail.co/john@example.com` to send email.
@@ -28,6 +31,7 @@ Although some services are easy to provide without requiring a login, many times
 * [Beeceptor](https://beeceptor.com/) - HTTP request mocking and intercepting. Fake your API until you have it ready.
 * [redirect.name](https://redirect.name/) - Configure simple and custom domain redirects and URL forwarding with just two DNS records.
 * [dynamic.name](https://dynamic.name/) - Dynamic DNS without logins and over DNS itself (nslookup will update your subdomain), but you still need a password for each subdomain.
+* [sprunge.us](http://sprunge.us/) and [clbin](https://clbin.com/) are pastebins that work from the command line with curl, [termbin](https://www.termbin.com/) is similar but with netcat/nc.
 
 ## Money
 * [CoinRebates](https://www.coinrebates.com) - Just paste a Bitcoin address, get a link and shop, shop, get the rebate.

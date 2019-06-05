@@ -25,6 +25,7 @@ Although some services are easy to provide without requiring a login, many times
 * [curl mail](https://curlmail.co/) - `curl curlmail.co/john@example.com` to send email.
 * [Mailinator](https://www.mailinator.com/), [Maildrop](https://maildrop.cc/), [Nada](https://getnada.com/) and other disposable email address services allow you to use one or multiple email addresses without registering (everything is public). [Emaildrop](https://www.emaildrop.io/v1) has even a public API!
 * [appear.in](https://appear.in/) and [Jitsi](https://meet.jit.si/) offer instant video chat rooms over webRTC. [room.sh](https://room.sh/) goes one step further and offers that plus collaborative code editors, document editors and drawable whiteboards.
+* [FinalMessage](https://finalmessage.io/) is a dead man switch. It will deliver an encrypted message to an email address of your choosing if you die or stop renewing. Expensive, but important.
 
 ## Development Tools
 * [serveo](http://serveo.net/) and [localhost.run](http://localhost.run/) - Get a public URL for a program running on localhost, no installation needed, uses ssh.

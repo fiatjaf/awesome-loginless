@@ -35,6 +35,7 @@ Although some services are easy to provide without requiring a login, many times
 * [sprunge.us](http://sprunge.us/) and [clbin](https://clbin.com/) are pastebins that work from the command line with curl, [termbin](https://www.termbin.com/) is similar but with netcat/nc.
 
 ## Money
+* [Lightning Poker](https://lightning-poker.com) - Play multiplayer no-limit Texas Hold'em Poker online with real satoshis.
 * [CoinRebates](https://www.coinrebates.com) - Just paste a Bitcoin address, get a link and shop, shop, get the rebate.
 
 

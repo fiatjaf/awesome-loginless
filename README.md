@@ -20,12 +20,12 @@ Although some services are easy to provide without requiring a login, many times
 * [image-charts.com](https://www.image-charts.com/) - Display many types of charts, graphviz graphs, animated GIFs and QR codes from an URL, works also as a drop-in replacement for Google Image Charts. [quickchart.io](https://quickchart.io/) is specialized in charts and can render some pretty ones, and also QR codes.
 * [Itty Bitty](https://about.bitty.site) - Create websites contained entirely on their URLs, share as QR code, tweets etc.
 * [write.as](https://write.as/) and [telegra.ph](https://telegra.ph/) allow you to write and publish articles minimalistically.
+* [Seashells](https://seashells.io/) will pipe output from a command line to a webpage in real-time _and store it_ (for how long?). `echo 'something' | nc seashells.io 1337`
 
 ## Communication
 * [curl mail](https://curlmail.co/) - `curl curlmail.co/john@example.com` to send email.
 * [Mailinator](https://www.mailinator.com/), [Maildrop](https://maildrop.cc/), [Nada](https://getnada.com/) and other disposable email address services allow you to use one or multiple email addresses without registering (everything is public). [Emaildrop](https://www.emaildrop.io/v1) has even a public API!
 * [appear.in](https://appear.in/) and [Jitsi](https://meet.jit.si/) offer instant video chat rooms over webRTC. [room.sh](https://room.sh/) goes one step further and offers that plus collaborative code editors, document editors and drawable whiteboards.
-* [FinalMessage](https://finalmessage.io/) is a dead man switch. It will deliver an encrypted message to an email address of your choosing if you die or stop renewing. Expensive, but important.
 
 ## Development Tools
 * [serveo](http://serveo.net/) and [localhost.run](http://localhost.run/) - Get a public URL for a program running on localhost, no installation needed, uses ssh.

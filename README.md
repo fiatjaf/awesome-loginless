@@ -30,7 +30,7 @@ Although some services are easy to provide without requiring a login, many times
 
 ## Development Tools
 * [serveo](http://serveo.net/) and [localhost.run](http://localhost.run/) - Get a public URL for a program running on localhost, no installation needed, uses ssh.
-* [Beeceptor](https://beeceptor.com/) - HTTP request mocking and intercepting. Fake your API until you have it ready.
+* [Beeceptor](https://beeceptor.com/) - HTTP request mocking and intercepting. Fake your API until you have it ready. Also the old [Request Bin](https://requestbin.com/) is now live, with a new, pretty good, UI.
 * [redirect.name](https://redirect.name/) - Configure simple and custom domain redirects and URL forwarding with just two DNS records.
 * [dynamic.name](https://dynamic.name/) - Dynamic DNS without logins and over DNS itself (nslookup will update your subdomain), but you still need a password for each subdomain.
 * [sprunge.us](http://sprunge.us/) and [clbin](https://clbin.com/) are pastebins that work from the command line with curl, [termbin](https://www.termbin.com/) is similar but with netcat/nc.

@@ -14,7 +14,8 @@ Although some services are easy to provide without requiring a login, many times
 
 ## Data
 * [Formspree](https://formspree.io/) - Put a form on your site, write your address in the HTML and get the submissions on your email.
-* [JSONBIN.io](https://jsonbin.io/) - A place to store, update and query any kind of JSON data, to be used in small-scale web apps in general.
+* [JSONBIN.io](https://jsonbin.io/) and [jsonbox.io](https://jsonbox.io/) are places to save, update and query any kind of JSON data, to be used in small-scale web apps in general.
+* [Tinysheet](https://tinysheet.com/) - Light, mobile-optimized 2×10 spreadsheets that run locally.
 * [Franchise](https://franchise.cloud/) - A notebook for SQL: easy charts, compare queries, download and share. SQLite, Postgres, MySQL, BigQuery, XLSX, JSON, CSV.
 * [Microlink](https://microlink.io) – Turns websites into data.
 
@@ -27,7 +28,8 @@ Although some services are easy to provide without requiring a login, many times
 ## Communication
 * [curl mail](https://curlmail.co/) - `curl curlmail.co/john@example.com` to send email.
 * [Mailinator](https://www.mailinator.com/), [Maildrop](https://maildrop.cc/), [Nada](https://getnada.com/) and other disposable email address services allow you to use one or multiple email addresses without registering (everything is public). [Emaildrop](https://www.emaildrop.io/v1) has even a public API!
-* [appear.in](https://appear.in/) and [Jitsi](https://meet.jit.si/) offer instant video chat rooms over webRTC. [room.sh](https://room.sh/) goes one step further and offers that plus collaborative code editors, document editors and drawable whiteboards.
+* [Whereby](https://whereby.com/) and [Jitsi](https://meet.jit.si/) offer instant video chat rooms over webRTC. [room.sh](https://room.sh/) goes one step further and offers that plus collaborative code editors, document editors and drawable whiteboards.
+* [Shick](https://shick.me) - instant chat rooms.
 
 ## Development Tools
 * [serveo](http://serveo.net/) and [localhost.run](http://localhost.run/) - Get a public URL for a program running on localhost, no installation needed, uses ssh.

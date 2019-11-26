@@ -15,6 +15,7 @@ Although some services are easy to provide without requiring a login, many times
 ## Data
 * [Formspree](https://formspree.io/) - Put a form on your site, write your address in the HTML and get the submissions on your email.
 * [JSONBIN.io](https://jsonbin.io/) and [jsonbox.io](https://jsonbox.io/) are places to save, update and query any kind of JSON data, to be used in small-scale web apps in general.
+* [KeyValue.xyz](https://keyvalue.xyz/) - Key-value store as a service. Get and set key/value pairs using an API.
 * [Tinysheet](https://tinysheet.com/) - Light, mobile-optimized 2×10 spreadsheets that run locally.
 * [Franchise](https://franchise.cloud/) - A notebook for SQL: easy charts, compare queries, download and share. SQLite, Postgres, MySQL, BigQuery, XLSX, JSON, CSV.
 * [Microlink](https://microlink.io) – Turns websites into data.

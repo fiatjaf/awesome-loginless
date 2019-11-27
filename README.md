@@ -22,7 +22,7 @@ Although some services are easy to provide without requiring a login, many times
 
 ## Publishing
 * [image-charts.com](https://www.image-charts.com/) - Display many types of charts, graphviz graphs, animated GIFs and QR codes from an URL, works also as a drop-in replacement for Google Image Charts. [quickchart.io](https://quickchart.io/) is specialized in charts and can render some pretty ones, and also QR codes.
-* [Itty Bitty](https://about.bitty.site) - Create websites contained entirely on their URLs, share as QR code, tweets etc.
+* [Itty Bitty](http://about.bitty.site/) - Create websites contained entirely on their URLs, share as QR code, tweets etc.
 * [write.as](https://write.as/) and [telegra.ph](https://telegra.ph/) allow you to write and publish articles minimalistically.
 * [Seashells](https://seashells.io/) will pipe output from a command line to a webpage in real-time _and store it_ (for how long?). `echo 'something' | nc seashells.io 1337`
 
@@ -39,8 +39,9 @@ Although some services are easy to provide without requiring a login, many times
 * [Beeceptor](https://beeceptor.com/) - HTTP request mocking and intercepting. Fake your API until you have it ready. Also the old [Request Bin](https://requestbin.com/) is now live, with a new, pretty good, UI.
 * [redirect.name](https://redirect.name/) - Configure simple and custom domain redirects and URL forwarding with just two DNS records.
 * [dynamic.name](https://dynamic.name/) - Dynamic DNS without logins and over DNS itself (nslookup will update your subdomain), but you still need a password for each subdomain.
-* [sprunge.us](http://sprunge.us/) and [clbin](https://clbin.com/) are pastebins that work from the command line with curl, [termbin](https://www.termbin.com/) is similar but with netcat/nc.
+* [sprunge.us](http://sprunge.us/) and [clbin](https://clbin.com/) are pastebins that work from the command line with curl, [termbin](https://www.termbin.com/) is similar but with netcat/nc.  
 * [Repl.it](https://repl.it/) - Interactive IDE and shell online (sign-up optional)
+* [transfer.sh](https://transfer.sh/) - File sharing from the command line using curl
 
 ## Money
 * [Lightning Poker](https://lightning-poker.com) - Play multiplayer no-limit Texas Hold'em Poker online with real satoshis.

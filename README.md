@@ -19,6 +19,7 @@ Although some services are easy to provide without requiring a login, many times
 * [Tinysheet](https://tinysheet.com/) - Light, mobile-optimized 2×10 spreadsheets that run locally.
 * [Franchise](https://franchise.cloud/) - A notebook for SQL: easy charts, compare queries, download and share. SQLite, Postgres, MySQL, BigQuery, XLSX, JSON, CSV.
 * [Microlink](https://microlink.io) – Turns websites into data.
+* [Volatile](https://volatile.wtf/) – A free key-value pair API that everyone can use.
 
 ## Publishing
 * [image-charts.com](https://www.image-charts.com/) - Display many types of charts, graphviz graphs, animated GIFs and QR codes from an URL, works also as a drop-in replacement for Google Image Charts. [quickchart.io](https://quickchart.io/) is specialized in charts and can render some pretty ones, and also QR codes.

@@ -11,8 +11,10 @@ A curated list of awesome internet services that normally you would have to regi
 * [License](#license)
 
 ## Data
+* [patchbay.pub](https://patchbay.pub/) - An elegant kind of pubsub platform that enables you to do notifications from one machine to another, execute custom services when a notification is received, receiving webhooks on a local machine, making a chat app, a job queue, hosting webpages, sharing files.
 * [Formspree](https://formspree.io/) - Put a form on your site, write your address in the HTML and get the submissions on your email.
 * [JSONBIN.io](https://jsonbin.io/) and [jsonbox.io](https://jsonbox.io/) are places to save, update and query any kind of JSON data, to be used in small-scale web apps in general.
+* [Volatile](https://volatile.wtf/) and [KEY/VALUE](https://keyvalue.xyz/) provide you with a key-value store as a service. Store and retrieve string values using an open API.
 * [Tinysheet](https://tinysheet.com/) - Light, mobile-optimized 2×10 spreadsheets that run locally.
 * [Franchise](https://franchise.cloud/) - A notebook for SQL: easy charts, compare queries, download and share. SQLite, Postgres, MySQL, BigQuery, XLSX, JSON, CSV.
 * [Microlink](https://microlink.io) – Turns websites into data.
@@ -32,8 +34,8 @@ A curated list of awesome internet services that normally you would have to regi
 * [Shick](https://shick.me) - instant chat rooms.
 
 ## Development Tools
-* [patchbay.pub](https://patchbay.pub/) - Poor man's ngrok/IFTTT/serverless.
-* [serveo](http://serveo.net/) and [localhost.run](http://localhost.run/) - Get a public URL for a program running on localhost, no installation needed, uses ssh.
+* [localhost.run](http://localhost.run/) - Get a public URL for a program running on localhost, no installation needed, uses ssh.
+* [crossorigin.me](https://corsproxy.github.io/) - A CORS proxy.
 * [Beeceptor](https://beeceptor.com/) - HTTP request mocking and intercepting. Fake your API until you have it ready. Also the old [Request Bin](https://requestbin.com/) is now live, with a new, pretty good, UI. [Mocky](https://www.mocky.io/) provides a dead simple  way to mock/fake API endpoints, while [JSONPlaceholder](https://jsonplaceholder.typicode.com/) comes up with a set of common-use REST API endpoints with fake data, much like [Star Wars API](https://swapi.co/) and [Pókemon API](https://pokeapi.co/).
 * [redirect.name](https://redirect.name/) - Configure simple and custom domain redirects and URL forwarding with just two DNS records.
 * [dynamic.name](https://dynamic.name/) - Dynamic DNS without logins and over DNS itself (nslookup will update your subdomain), but you still need a password for each subdomain.

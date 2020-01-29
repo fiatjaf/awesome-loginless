@@ -1,8 +1,6 @@
 # Awesome Loginless [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome internet services you can use without registering, creating an account and filling endless forms where people get your data and throw it in the trash.
-
-Although some services are easy to provide without requiring a login, many times clever solutions to prevent abuse and spam or to be able to tie specific data to specific users.
+A curated list of awesome internet services that normally you would have to register for, but due to clever approaches on the part of the service you can use without registering, creating an account and filling endless forms.
 
 * [Data](#data)
 * [Communication](#communication)

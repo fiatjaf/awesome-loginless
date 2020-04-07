@@ -49,7 +49,7 @@ A curated list of awesome internet services that normally you would have to regi
 * [CoinRebates](https://www.coinrebates.com) - Just paste a Bitcoin address, get a link and shop, shop, get the rebate.
 
 ## Web Apps
-* [Coursicle](https://www.coursicle.com/) - Plan your college class schedule and get notified when classes open up. Coursicle created an account-like system standard that doesn't require registration, which [they call Loginless](https://www.coursicle.com/blog/loginless-a-new-standard-for-user-identification.php). This allows for a persistent identity, across devices, without requiring any personally identifiable information such as an email, phone number, or password.
+* [Coursicle](https://www.coursicle.com/) - Plan your college class schedule and get notified when classes open up using [an account-like system that doesn't require registration](https://www.coursicle.com/blog/loginless-a-new-standard-for-user-identification.php).
 
 ## Contribute
 Please contribute! Open an issue or a PR and we'll discuss it or merge it. If you're opening a PR, please ensure all formatting is ok (if you're in a hurry just open an issue).

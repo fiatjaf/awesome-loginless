@@ -13,7 +13,6 @@ A curated list of awesome internet services that normally you would have to regi
 
 ## Data
 * [patchbay.pub](https://patchbay.pub/) - An elegant kind of pubsub platform that enables you to do notifications from one machine to another, execute custom services when a notification is received, receiving webhooks on a local machine, making a chat app, a job queue, hosting webpages, sharing files.
-* [Notifier](https://notifier.in/) - Convert content sources (emails, webhooks) to RSS feeds.
 * [Formspree](https://formspree.io/) - Put a form on your site, write your address in the HTML and get the submissions on your email.
 * [JSONBIN.io](https://jsonbin.io/) and [jsonbox.io](https://jsonbox.io/) are places to save, update and query any kind of JSON data, to be used in small-scale web apps in general.
 * [Volatile](https://volatile.wtf/) and [KEY/VALUE](https://keyvalue.xyz/) provide you with a key-value store as a service. Store and retrieve string values using an open API.

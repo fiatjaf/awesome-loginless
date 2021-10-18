@@ -8,6 +8,7 @@ A curated list of awesome internet services that normally you would have to regi
 * [Development tools](#development-tools)
 * [Money](#money)
 * [Web Apps](#web-apps)
+* [Education](#education)
 * [Contribute](#contribute)
 * [License](#license)
 
@@ -50,6 +51,9 @@ A curated list of awesome internet services that normally you would have to regi
 
 ## Web Apps
 * [Coursicle](https://www.coursicle.com/) - Plan your college class schedule and get notified when classes open up using [an account-like system that doesn't require registration](https://www.coursicle.com/blog/loginless-a-new-standard-for-user-identification.php).
+
+## Education
+* [Codeamigo](https://codeamigo.dev/) - Byte-sized interactive coding tutorials.
 
 ## Contribute
 Please contribute! Open an issue or a PR and we'll discuss it or merge it. If you're opening a PR, please ensure all formatting is ok (if you're in a hurry just open an issue).

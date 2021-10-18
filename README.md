@@ -48,6 +48,7 @@ A curated list of awesome internet services that normally you would have to regi
 ## Money
 * [Lightning Poker](https://lightning-poker.com) - Play multiplayer no-limit Texas Hold'em Poker online with real satoshis.
 * [CoinRebates](https://www.coinrebates.com) - Just paste a Bitcoin address, get a link and shop, shop, get the rebate.
+* [Stock Events](https://stockevents.app) - Track all your investments. Portfolio, Earnings, Dividends, News and more. 
 
 ## Web Apps
 * [Coursicle](https://www.coursicle.com/) - Plan your college class schedule and get notified when classes open up using [an account-like system that doesn't require registration](https://www.coursicle.com/blog/loginless-a-new-standard-for-user-identification.php).

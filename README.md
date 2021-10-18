@@ -29,7 +29,8 @@ A curated list of awesome internet services that normally you would have to regi
 * [PublicEmails.com](https://publicemails.com/) allows you to publish and manage blog posts and online content just by sending emails.
 * [Bitclouds](https://bitclouds.sh) - Get an anonymous VPS instance payable by the hour with satoshis.
 * [Seashells](https://seashells.io/) will pipe output from a command line to a webpage in real-time _and store it_ (for 1 day). `echo 'something' | nc seashells.io 1337`
-* [sprunge.us](http://sprunge.us/) and [clbin](https://clbin.com/) are pastebins that work from the command line with curl, [termbin](https://www.termbin.com/) is similar but with netcat/nc.
+* [sprunge.us](http://sprunge.us/) and [clbin](https://clbin.com/) are pastebins that work from the command line with curl, [termbin](https://www.termbin.com/) is similar but with netcat/nc
+* [Remarkbox](https://www.remarkbox.com/) Remarkbox increases user engagement because it allows a visitor to discuss your content right away without an account. Free service (pay-what-you-can) no credit card required. It's your comment data site owner, export with JSON.
 
 ## Communication
 * [Shick](https://shick.me) - Instant normal chat rooms.

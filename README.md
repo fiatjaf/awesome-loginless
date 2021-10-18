@@ -4,6 +4,7 @@ A curated list of awesome internet services that normally you would have to regi
 
 * [Data](#data)
 * [Communication](#communication)
+* [Privacy](#privacy)
 * [Publishing](#publishing)
 * [Development tools](#development-tools)
 * [Money](#money)
@@ -38,6 +39,9 @@ A curated list of awesome internet services that normally you would have to regi
 * [curl mail](https://curlmail.co/) - `curl curlmail.co/john@example.com` to send email.
 * [Mailinator](https://www.mailinator.com/), [Maildrop](https://maildrop.cc/), [Nada](https://getnada.com/) and other disposable email address services allow you to use one or multiple email addresses without registering (everything is public). [Emaildrop](https://www.emaildrop.io/v1) has even a public API!
 * [Kill the Newsletter!](https://kill-the-newsletter.com/) - Convert email newsletters into Atom feeds
+
+## Privacy
+* [Mullvad VPN](https://mullvad.net) - Cross-Platform self proclaimed no log VPN Provider based in Sweden. Accepts traditional payment methods, cash by mail, BTC/BCH, XMR(Through official resllers), and uses randomly generated account numbers instead of logins.
 
 ## Development Tools
 * [localhost.run](http://localhost.run/) - Get a public URL for a program running on localhost, no installation needed, uses ssh.

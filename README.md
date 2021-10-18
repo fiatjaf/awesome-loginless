@@ -41,7 +41,7 @@ A curated list of awesome internet services that normally you would have to regi
 * [Kill the Newsletter!](https://kill-the-newsletter.com/) - Convert email newsletters into Atom feeds
 
 ## Privacy
-* [Mullvad VPN](https://mullvad.net) - Cross-Platform self proclaimed no log VPN Provider based in Sweden. Accepts traditional payment methods, cash by mail, BTC/BCH, XMR(Through official resllers), and uses randomly generated account numbers instead of logins.
+* [Mullvad VPN](https://mullvad.net) - Cross-Platform self proclaimed no log VPN Provider based in Sweden. Accepts traditional payment methods, cash by mail, BTC/BCH, XMR(Through official resellers), and uses randomly generated account numbers instead of logins.
 
 ## Development Tools
 * [localhost.run](http://localhost.run/) - Get a public URL for a program running on localhost, no installation needed, uses ssh.

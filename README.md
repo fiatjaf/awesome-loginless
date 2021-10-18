@@ -50,6 +50,7 @@ A curated list of awesome internet services that normally you would have to regi
 
 ## Web Apps
 * [Coursicle](https://www.coursicle.com/) - Plan your college class schedule and get notified when classes open up using [an account-like system that doesn't require registration](https://www.coursicle.com/blog/loginless-a-new-standard-for-user-identification.php).
+* [Image to Lithophane](https://3dp.rocks/lithophane/) - Transform an image into a lithophane model suitable for 3D printing.
 
 ## Contribute
 Please contribute! Open an issue or a PR and we'll discuss it or merge it. If you're opening a PR, please ensure all formatting is ok (if you're in a hurry just open an issue).

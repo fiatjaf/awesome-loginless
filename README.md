@@ -35,7 +35,6 @@ A curated list of awesome internet services that normally you would have to regi
 * [Shick](https://shick.me) - Instant normal chat rooms.
 * [Yap](https://yap.chat/) - Instant ephemeral chat rooms in which even the messages are ephemeral, for friends.
 * [Jitsi](https://meet.jit.si/) offers instant video chat rooms over webRTC. [room.sh](https://room.sh/) goes one step further and offers that plus collaborative code editors, document editors and drawable whiteboards.
-* [curl mail](https://curlmail.co/) - `curl curlmail.co/john@example.com` to send email.
 * [Mailinator](https://www.mailinator.com/), [Maildrop](https://maildrop.cc/), [Nada](https://getnada.com/) and other disposable email address services allow you to use one or multiple email addresses without registering (everything is public). [Emaildrop](https://www.emaildrop.io/v1) has even a public API!
 * [Kill the Newsletter!](https://kill-the-newsletter.com/) - Convert email newsletters into Atom feeds
 

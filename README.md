@@ -55,6 +55,7 @@ A curated list of awesome internet services that normally you would have to regi
 ## Web Apps
 * [Coursicle](https://www.coursicle.com/) - Plan your college class schedule and get notified when classes open up using [an account-like system that doesn't require registration](https://www.coursicle.com/blog/loginless-a-new-standard-for-user-identification.php).
 * [Image to Lithophane](https://3dp.rocks/lithophane/) - Transform an image into a lithophane model suitable for 3D printing.
+* [Diagrams.net](https://app.diagrams.net/) - Formerly known as Draw.io, create diagrams in the browser and save them locally or in the cloud.
 
 ## Education
 * [Codeamigo](https://codeamigo.dev/) - Byte-sized interactive coding tutorials.

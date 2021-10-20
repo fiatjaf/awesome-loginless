@@ -35,8 +35,7 @@ A curated list of awesome internet services that normally you would have to regi
 * [Shick](https://shick.me) - Instant normal chat rooms.
 * [Yap](https://yap.chat/) - Instant ephemeral chat rooms in which even the messages are ephemeral, for friends.
 * [Jitsi](https://meet.jit.si/) offers instant video chat rooms over webRTC. [room.sh](https://room.sh/) goes one step further and offers that plus collaborative code editors, document editors and drawable whiteboards.
-* [curl mail](https://curlmail.co/) - `curl curlmail.co/john@example.com` to send email.
-* [Mailinator](https://www.mailinator.com/), [Maildrop](https://maildrop.cc/), [Nada](https://getnada.com/) and other disposable email address services allow you to use one or multiple email addresses without registering (everything is public). [Emaildrop](https://www.emaildrop.io/v1) has even a public API!
+* [Mailinator](https://www.mailinator.com/), [Maildrop](https://maildrop.cc/), [Nada](https://getnada.com/) and other disposable email address services allow you to use one or multiple email addresses without registering (everything is public). [Emaildrop](https://www.emaildrop.io/) has even a public API!
 * [Kill the Newsletter!](https://kill-the-newsletter.com/) - Convert email newsletters into Atom feeds
 
 ## Development Tools
@@ -51,11 +50,14 @@ A curated list of awesome internet services that normally you would have to regi
 * [Lightning Poker](https://lightning-poker.com) - Play multiplayer no-limit Texas Hold'em Poker online with real satoshis.
 * [CoinRebates](https://www.coinrebates.com) - Just paste a Bitcoin address, get a link and shop, shop, get the rebate.
 * [Stock Events](https://stockevents.app) - Track all your investments. Portfolio, Earnings, Dividends, News and more. 
+* [Kittysplit](https://www.kittysplit.com) - Easy splitting of group expenses.
 
 ## Web Apps
 * [Coursicle](https://www.coursicle.com/) - Plan your college class schedule and get notified when classes open up using [an account-like system that doesn't require registration](https://www.coursicle.com/blog/loginless-a-new-standard-for-user-identification.php).
 * [Image to Lithophane](https://3dp.rocks/lithophane/) - Transform an image into a lithophane model suitable for 3D printing.
 * [Wishlephant](https://wishlephant.com) - A wishlist service, simply create a wishlist, add links to everything you want, share it with friends and family.
+* [Diagrams.net](https://app.diagrams.net/) - Formerly known as Draw.io, create diagrams in the browser and save them locally or in the cloud.
+* [Kinopio](https://kinopio.club/) - Get your thoughts out and visually connect them together: notes, mind-mapping, mood boards, meetings, collaborating.
 
 ## Education
 * [Codeamigo](https://codeamigo.dev/) - Byte-sized interactive coding tutorials.

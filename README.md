@@ -58,6 +58,7 @@ A curated list of awesome internet services that normally you would have to regi
 
 ## Education
 * [Codeamigo](https://codeamigo.dev/) - Byte-sized interactive coding tutorials.
+* [The Kilobyte's Gambit](https://vole.wtf/kilobytes-gambit/) - A 1024 bytes javascript chess engine.
 
 ## Contribute
 Please contribute! Open an issue or a PR and we'll discuss it or merge it. If you're opening a PR, please ensure all formatting is ok (if you're in a hurry just open an issue).

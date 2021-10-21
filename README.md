@@ -7,16 +7,13 @@ A curated list of awesome internet services that normally you would have to regi
 * [Publishing](#publishing)
 * [Development tools](#development-tools)
 * [Money](#money)
-* [Web Apps](#web-apps)
-* [Education](#education)
+* [Unclassified](#unclassified)
 * [Contribute](#contribute)
 * [License](#license)
 
 ## Data
 * [patchbay.pub](https://patchbay.pub/) - An elegant kind of pubsub platform that enables you to do notifications from one machine to another, execute custom services when a notification is received, receiving webhooks on a local machine, making a chat app, a job queue, hosting webpages, sharing files.
-* [Formspree](https://formspree.io/) - Put a form on your site, write your address in the HTML and get the submissions on your email.
 * [JSONBIN.io](https://jsonbin.io/) and [jsonbox.io](https://jsonbox.io/) are places to save, update and query any kind of JSON data, to be used in small-scale web apps in general.
-* [Volatile](https://volatile.wtf/) and [KEY/VALUE](https://keyvalue.xyz/) provide you with a key-value store as a service. Store and retrieve string values using an open API.
 * [Tinysheet](https://tinysheet.com/) - Light, mobile-optimized 2×10 spreadsheets that run locally.
 * [Franchise](https://franchise.cloud/) - A notebook for SQL: easy charts, compare queries, download and share. SQLite, Postgres, MySQL, BigQuery, XLSX, JSON, CSV.
 * [Microlink](https://microlink.io) – Turns websites into data.
@@ -30,7 +27,6 @@ A curated list of awesome internet services that normally you would have to regi
 * [Bitclouds](https://bitclouds.sh) - Get an anonymous VPS instance payable by the hour with satoshis.
 * [Seashells](https://seashells.io/) will pipe output from a command line to a webpage in real-time _and store it_ (for 1 day). `echo 'something' | nc seashells.io 1337`
 * [sprunge.us](http://sprunge.us/) and [clbin](https://clbin.com/) are pastebins that work from the command line with curl, [termbin](https://www.termbin.com/) is similar but with netcat/nc
-* [Remarkbox](https://www.remarkbox.com/) Remarkbox increases user engagement because it allows a visitor to discuss your content right away without an account. Free service (pay-what-you-can) no credit card required. It's your comment data site owner, export with JSON.
 
 ## Communication
 * [Shick](https://shick.me) - Instant normal chat rooms.
@@ -50,22 +46,19 @@ A curated list of awesome internet services that normally you would have to regi
 ## Money
 * [Lightning Poker](https://lightning-poker.com) - Play multiplayer no-limit Texas Hold'em Poker online with real satoshis.
 * [CoinRebates](https://www.coinrebates.com) - Just paste a Bitcoin address, get a link and shop, shop, get the rebate.
-* [Stock Events](https://stockevents.app) - Track all your investments. Portfolio, Earnings, Dividends, News and more. 
 * [Kittysplit](https://www.kittysplit.com) - Easy splitting of group expenses.
 
-## Web Apps
+## Unclassified
 * [Coursicle](https://www.coursicle.com/) - Plan your college class schedule and get notified when classes open up using [an account-like system that doesn't require registration](https://www.coursicle.com/blog/loginless-a-new-standard-for-user-identification.php).
 * [Image to Lithophane](https://3dp.rocks/lithophane/) - Transform an image into a lithophane model suitable for 3D printing.
-* [Picmunge](https://picmunge.cvservant.com/) - Image transformation pipeline. 
+* [Picmunge](https://picmunge.cvservant.com/) - Image transformation pipeline.
 * [Wishlephant](https://wishlephant.com) - A wishlist service, simply create a wishlist, add links to everything you want, share it with friends and family.
-* [Diagrams.net](https://app.diagrams.net/) - Formerly known as Draw.io, create diagrams in the browser and save them locally or in the cloud.
 * [Kinopio](https://kinopio.club/) - Get your thoughts out and visually connect them together: notes, mind-mapping, mood boards, meetings, collaborating.
 
-## Education
-* [Codeamigo](https://codeamigo.dev/) - Byte-sized interactive coding tutorials.
-
 ## Contribute
-Please contribute! Open an issue or a PR and we'll discuss it or merge it. If you're opening a PR, please ensure all formatting is ok (if you're in a hurry just open an issue).
+Please contribute! Open a PR and we'll discuss it or merge it. If you're opening a PR, please ensure all formatting is ok.
+
+Criteria for including: the app must be a _service_, i.e. something that doesn't run in the browser itself, something that provides value that only a remote _server_ can provide.
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

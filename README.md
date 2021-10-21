@@ -28,6 +28,7 @@ A curated list of awesome internet services that normally you would have to regi
 * [Bitclouds](https://bitclouds.sh) - Get an anonymous VPS instance payable by the hour with satoshis.
 * [Seashells](https://seashells.io/) will pipe output from a command line to a webpage in real-time _and store it_ (for 1 day). `echo 'something' | nc seashells.io 1337`
 * [sprunge.us](http://sprunge.us/) and [clbin](https://clbin.com/) are pastebins that work from the command line with curl, [termbin](https://www.termbin.com/) is similar but with netcat/nc
+* [transfer.sh](https://transfer.sh/) - File sharing from the command line using curl.
 
 ## Communication
 * [Shick](https://shick.me) - Instant normal chat rooms.

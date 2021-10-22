@@ -2,6 +2,8 @@
 
 A curated list of awesome internet services that normally you would have to register for, but due to clever approaches on the part of the service you can use without registering, creating an account and filling endless forms.
 
+See also https://github.com/aviaryan/awesome-no-login-web-apps for a more comprehensive list, probably better.
+
 * [Data](#data)
 * [Communication](#communication)
 * [Publishing](#publishing)

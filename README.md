@@ -33,6 +33,7 @@ See also https://github.com/aviaryan/awesome-no-login-web-apps for a more compre
 * [transfer.sh](https://transfer.sh/) - File sharing from the command line using curl.
 
 ## Communication
+* [Pay2.email](https://pay2.email/) - Instant spam free HTML form to email.
 * [Shick](https://shick.me) - Instant normal chat rooms.
 * [Yap](https://yap.chat/) - Instant ephemeral chat rooms in which even the messages are ephemeral, for friends.
 * [Jitsi](https://meet.jit.si/) offers instant video chat rooms over webRTC. [room.sh](https://room.sh/) goes one step further and offers that plus collaborative code editors, document editors and drawable whiteboards.

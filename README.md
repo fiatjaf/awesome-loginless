@@ -48,6 +48,7 @@ See also https://github.com/aviaryan/awesome-no-login-web-apps for a more compre
 * [dynamic.name](https://dynamic.name/) - Dynamic DNS without logins and over DNS itself (nslookup will update your subdomain), but you still need a password for each subdomain.
 * [RoboHash](https://robohash.org/) - Generates unique avatars from usernames or any text.
 * [Decompiler.com](https://www.decompiler.com/) - C#, Python, Android and Java online decompiler.
+* [themer.dev](https://themer.dev) - Generates themes for your editor, terminal, desktop wallpaper, and more.
 
 ## Money
 * [Lightning Poker](https://lightning-poker.com) - Play multiplayer no-limit Texas Hold'em Poker online with real satoshis.

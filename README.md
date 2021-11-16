@@ -20,6 +20,7 @@ See also https://github.com/aviaryan/awesome-no-login-web-apps for a more compre
 * [Franchise](https://franchise.cloud/) - A notebook for SQL: easy charts, compare queries, download and share. SQLite, Postgres, MySQL, BigQuery, XLSX, JSON, CSV.
 * [Microlink](https://microlink.io) – Turns websites into data.
 * [Flexlists](https://flexlists.com/?nologin=1) - Simple and free online data tables
+* [DataStation](https://app.datastation.multiprocess.io/) - Load data from files or web servers; script in Python, JavaScript, and SQL; and create and download graphs
 
 ## Publishing
 * [chartd](http://chartd.co/) allows `img` tags to contain response, retina-compatible charts. [image-charts.com](https://www.image-charts.com/) offers a similar service with many types of charts, graphviz graphs, animated GIFs and QR codes from an URL, works also as a drop-in replacement for Google Image Charts. [quickchart.io](https://quickchart.io/) is specialized in charts and can render some pretty ones, and also QR codes.

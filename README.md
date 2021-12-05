@@ -15,6 +15,7 @@ See also https://github.com/aviaryan/awesome-no-login-web-apps for a more compre
 
 ## Data
 * [patchbay.pub](https://patchbay.pub/) - An elegant kind of pubsub platform that enables you to do notifications from one machine to another, execute custom services when a notification is received, receiving webhooks on a local machine, making a chat app, a job queue, hosting webpages, sharing files.
+* [dfeed](https://dfeed.net) - An accountless feed reader.
 * [JSONBIN.io](https://jsonbin.io/) and [jsonbox.io](https://jsonbox.io/) are places to save, update and query any kind of JSON data, to be used in small-scale web apps in general.
 * [Tinysheet](https://tinysheet.com/) - Light, mobile-optimized 2×10 spreadsheets that run locally.
 * [Franchise](https://franchise.cloud/) - A notebook for SQL: easy charts, compare queries, download and share. SQLite, Postgres, MySQL, BigQuery, XLSX, JSON, CSV.

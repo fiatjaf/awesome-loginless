@@ -48,6 +48,7 @@ See also https://github.com/aviaryan/awesome-no-login-web-apps for a more compre
 * [Beeceptor](https://beeceptor.com/) - HTTP request mocking and intercepting. Fake your API until you have it ready. Also the old [Request Bin](https://requestbin.com/) is now live, with a new, pretty good, UI. [Mocky](https://www.mocky.io/) provides a dead simple  way to mock/fake API endpoints, while [JSONPlaceholder](https://jsonplaceholder.typicode.com/) comes up with a set of common-use REST API endpoints with fake data, much like [Star Wars API](https://swapi.co/) and [Pókemon API](https://pokeapi.co/).
 * [redirect.name](https://redirect.name/) - Configure simple and custom domain redirects and URL forwarding with just two DNS records.
 * [dynamic.name](https://dynamic.name/) - Dynamic DNS without logins and over DNS itself (nslookup will update your subdomain), but you still need a password for each subdomain.
+* [TakingNames.io IP subdomains](https://takingnames.io/blog/instant-subdomains) - Free, instant A record pointing at your public IP address.
 * [RoboHash](https://robohash.org/) - Generates unique avatars from usernames or any text.
 * [Decompiler.com](https://www.decompiler.com/) - C#, Python, Android and Java online decompiler.
 

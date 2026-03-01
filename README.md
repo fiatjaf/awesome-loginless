@@ -51,6 +51,7 @@ See also https://github.com/aviaryan/awesome-no-login-web-apps for a more compre
 * [TakingNames.io IP subdomains](https://takingnames.io/blog/instant-subdomains) - Free, instant A record pointing at your public IP address.
 * [RoboHash](https://robohash.org/) - Generates unique avatars from usernames or any text.
 * [Decompiler.com](https://www.decompiler.com/) - C#, Python, Android and Java online decompiler.
+* [PageGuard](https://pageguard.org) - Free all-in-one website health scanner: SEO, accessibility, and performance scores with AI analysis. No login or signup required.
 
 ## Money
 * [Lightning Poker](https://lightning-poker.com) - Play multiplayer no-limit Texas Hold'em Poker online with real satoshis.

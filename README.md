@@ -63,6 +63,7 @@ See also https://github.com/aviaryan/awesome-no-login-web-apps for a more compre
 * [Picmunge](https://picmunge.cvservant.com/) - Image transformation pipeline.
 * [Wishlephant](https://wishlephant.com) - A wishlist service, simply create a wishlist, add links to everything you want, share it with friends and family.
 * [Kinopio](https://kinopio.club/) - Get your thoughts out and visually connect them together: notes, mind-mapping, mood boards, meetings, collaborating.
+- [KeyboardTester.click](https://keyboardtester.click) - Free hardware diagnostic suite (keyboard, mouse, screen, audio testing) that works in any browser, no login, no install.
 
 ## Contribute
 Please contribute! Open a PR and we'll discuss it or merge it. If you're opening a PR, please ensure all formatting is ok.

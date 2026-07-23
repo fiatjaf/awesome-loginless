@@ -33,6 +33,7 @@ See also https://github.com/aviaryan/awesome-no-login-web-apps for a more compre
 * [Seashells](https://seashells.io/) will pipe output from a command line to a webpage in real-time _and store it_ (for 1 day). `echo 'something' | nc seashells.io 1337`
 * [sprunge.us](http://sprunge.us/) and [clbin](https://clbin.com/) are pastebins that work from the command line with curl, [termbin](https://www.termbin.com/) is similar but with netcat/nc
 * [transfer.sh](https://transfer.sh/) - File sharing from the command line using curl.
+* [8ma Quick Transfer](https://t.8ma.co/) - Send large files between computers and phones by link, QR code, or pickup code without creating an account or installing an app.
 
 ## Communication
 * [Pay2.email](https://pay2.email/) - Instant spam free HTML form to email.

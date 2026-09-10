@@ -58,6 +58,7 @@ See also https://github.com/aviaryan/awesome-no-login-web-apps for a more compre
 * [Kittysplit](https://www.kittysplit.com) - Easy splitting of group expenses.
 
 ## Unclassified
+* [Wheelwise](https://cars.limoja.ai/) - UK car-buying intelligence with no account: prices every one of 417,146 live listings by true monthly cost (depreciation + finance, not sticker price), with instant valuations and lease-vs-buy comparisons; a free [methodology page](https://cars.limoja.ai/methodology/) publishes the model and its error ranges (RMSLE 0.161). UK-only, estimates only — not financial advice. No tracking, no paywall, no premium tier.
 * [Coursicle](https://www.coursicle.com/) - Plan your college class schedule and get notified when classes open up using [an account-like system that doesn't require registration](https://www.coursicle.com/blog/loginless-a-new-standard-for-user-identification.php).
 * [Image to Lithophane](https://3dp.rocks/lithophane/) - Transform an image into a lithophane model suitable for 3D printing.
 * [Picmunge](https://picmunge.cvservant.com/) - Image transformation pipeline.

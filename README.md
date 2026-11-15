@@ -63,6 +63,7 @@ See also https://github.com/aviaryan/awesome-no-login-web-apps for a more compre
 * [Picmunge](https://picmunge.cvservant.com/) - Image transformation pipeline.
 * [Wishlephant](https://wishlephant.com) - A wishlist service, simply create a wishlist, add links to everything you want, share it with friends and family.
 * [Kinopio](https://kinopio.club/) - Get your thoughts out and visually connect them together: notes, mind-mapping, mood boards, meetings, collaborating.
+* [No Stairs Please](https://nostairsplease.com/) - Searchable US & BC live-music venue directory with route planning, load-in notes, and accessibility details — free to browse without an account.
 
 ## Contribute
 Please contribute! Open a PR and we'll discuss it or merge it. If you're opening a PR, please ensure all formatting is ok.
